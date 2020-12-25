@@ -3,7 +3,7 @@
 Best practices [cookiecutter](https://github.com/audreyr/cookiecutter) template as described in this [blogpost](https://sourcery.ai/blog/python-best-practices/).
 
 ## Features
-**- Versioning with [versioneer](https://github.com/python-versioneer/python-versioneer)
+**- Versioning with [versioneer](https://github.com/python-versioneer/python-versioneer)**
 - Testing with [pytest](https://docs.pytest.org/en/latest/)
 - Formatting with [black](https://github.com/psf/black)
 - Import sorting with [isort](https://github.com/timothycrosley/isort)
