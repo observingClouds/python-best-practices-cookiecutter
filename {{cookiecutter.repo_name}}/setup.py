@@ -31,7 +31,7 @@ setup(
     cmdclass=versioneer.get_cmdclass(),
     author='{{cookiecutter.full_name}}',
     author_email='{{cookiecutter.email}}',
-    url='{{cookiecuttter.url}}',
+    url='{{cookiecutter.url}}',
     # Package modules and data
     packages=find_packages(),
     # Requires
