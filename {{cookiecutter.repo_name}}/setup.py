@@ -3,7 +3,6 @@
 """Setup the package {{ cookiecutter.repo_name }}."""
 
 import versioneer
-from runpy import run_path
 
 from setuptools import find_packages, setup
 
